@@ -2917,6 +2917,16 @@
       }
     },
     {
+      "displayName": "File Market",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "File Market",
+        "brand:wikidata": "Q112228237",
+        "name": "File Market",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Fix Price",
       "id": "fixprice-be42a4",
       "locationSet": {
@@ -5010,7 +5020,7 @@
         "brand": "Marjane مرجان",
         "brand:ar": "مرجان",
         "brand:fr": "Marjane",
-        "brand:wikidata": "Q2055692",
+        "brand:wikidata": "Q136333342",
         "name": "Marjane مرجان",
         "name:ar": "مرجان",
         "name:fr": "Marjane",
@@ -6655,7 +6665,7 @@
     {
       "displayName": "Primaprix",
       "id": "primaprix-0513f1",
-      "locationSet": {"include": ["es"]},
+      "locationSet": {"include": ["es", "fr"]},
       "tags": {
         "brand": "Primaprix",
         "brand:wikidata": "Q112691161",

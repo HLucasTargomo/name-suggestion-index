@@ -275,6 +275,20 @@
       }
     },
     {
+      "displayName": "All'Antico Vinaio",
+      "locationSet": {
+        "include": ["ae", "gb-eng", "it", "us"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "brand:wikidata": "Q136350648",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Aloha Poké",
       "id": "alohapoke-34e6e8",
       "locationSet": {"include": ["es"]},
@@ -2238,6 +2252,28 @@
       }
     },
     {
+      "displayName": "Cosechas",
+      "id": "cosechas-a14b1c",
+      "locationSet": {
+        "include": [
+          "br",
+          "co",
+          "cr",
+          "pa",
+          "tw",
+          "us-fl.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Cosechas",
+        "brand:wikidata": "Q128305751",
+        "cuisine": "juice",
+        "name": "Cosechas",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Così",
       "id": "cosi-4d2ff4",
       "locationSet": {"include": ["us"]},
@@ -3199,6 +3235,19 @@
         "brand:wikidata": "Q5396630",
         "cuisine": "indonesian",
         "name": "Es Teler 77",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Etiler Marmaris",
+      "id": "etilermarmaris-8ef00c",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Etiler Marmaris",
+        "brand:wikidata": "Q136088046",
+        "cuisine": "kebab",
+        "name": "Etiler Marmaris",
         "takeaway": "yes"
       }
     },
@@ -6497,6 +6546,19 @@
       }
     },
     {
+      "displayName": "Mezzo di Pasta",
+      "id": "mezzodipasta-e4dee6",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Mezzo di Pasta",
+        "brand:wikidata": "Q1926453",
+        "cuisine": "pasta",
+        "name": "Mezzo di Pasta",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Miami Grill",
       "id": "miamigrill-1e2c00",
       "locationSet": {
@@ -9308,6 +9370,21 @@
       }
     },
     {
+      "displayName": "Shah's Halal Food",
+      "id": "shahshalalfood-5e3e19",
+      "locationSet": {
+        "include": ["ca", "gb", "se", "us"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Shah's Halal Food",
+        "brand:wikidata": "Q135009954",
+        "diet:halal": "only",
+        "name": "Shah's Halal Food",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Shake Shack",
       "id": "shakeshack-658eea",
       "locationSet": {"include": ["001"]},
@@ -11984,6 +12061,17 @@
         "name:en": "Russkiy Appetit",
         "name:ru": "Русский Аппетит",
         "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Софийска баница",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Софийска баница",
+        "brand:wikidata": "Q136404664",
+        "cuisine": "banitsa",
+        "name": "Софийска баница"
       }
     },
     {

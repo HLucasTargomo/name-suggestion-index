@@ -337,7 +337,7 @@
     {
       "displayName": "CAO",
       "id": "cao-3fbe17",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["ro"]},
       "tags": {
         "amenity": "drinking_water",
         "operator": "CAO"
@@ -592,7 +592,7 @@
     {
       "displayName": "Derbyshire Scouts",
       "id": "derbyshirescouts-3fbe17",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["gb-east-midlands.geojson"]},
       "tags": {
         "amenity": "drinking_water",
         "operator": "Derbyshire Scouts"
@@ -1456,7 +1456,7 @@
     {
       "displayName": "TRV zrt",
       "id": "trvzrt-3fbe17",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["hu"]},
       "tags": {
         "amenity": "drinking_water",
         "operator": "TRV zrt"

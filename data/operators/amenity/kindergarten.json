@@ -899,12 +899,15 @@
       }
     },
     {
-      "displayName": "Kath. Kindertageseinrichtungen Hochstift gem. GmbH, Paderborn",
+      "displayName": "Katholische Kindertageseinrichtungen Hochstift",
       "id": "kathkindertageseinrichtungenhochstiftgemgmbhpaderborn-0ff93d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["Kath. Kindertageseinrichtungen Hochstift gem. GmbH, Paderborn", "Katholische Kindertageseinrichtugen Hochstift gem. GmbH"],
       "tags": {
         "amenity": "kindergarten",
-        "operator": "Kath. Kindertageseinrichtungen Hochstift gem. GmbH, Paderborn"
+        "operator": "Katholische Kindertageseinrichtungen Hochstift",
+        "operator:type": "religious",
+        "operator:wikidata": "Q136275714"
       }
     },
     {
@@ -926,15 +929,6 @@
         "amenity": "kindergarten",
         "operator": "Katholische Gesamtkirchengemeinde Ravensburg",
         "operator:type": "religious"
-      }
-    },
-    {
-      "displayName": "Katholische Kindertageseinrichtugen Hochstift gem. GmbH",
-      "id": "katholischekindertageseinrichtugenhochstiftgemgmbh-0ff93d",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "kindergarten",
-        "operator": "Katholische Kindertageseinrichtugen Hochstift gem. GmbH"
       }
     },
     {
@@ -2083,10 +2077,12 @@
     {
       "displayName": "Stadt Mörfelden-Walldorf",
       "id": "stadtmorfeldenwalldorf-0ff93d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de-he.geojson"]},
       "tags": {
         "amenity": "kindergarten",
-        "operator": "Stadt Mörfelden-Walldorf"
+        "operator": "Stadt Mörfelden-Walldorf",
+        "operator:type": "government",
+        "operator:wikidata": "Q16007"
       }
     },
     {
@@ -2118,10 +2114,12 @@
     {
       "displayName": "Stadt Paderborn",
       "id": "stadtpaderborn-0ff93d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de-nw.geojson"]},
       "tags": {
         "amenity": "kindergarten",
-        "operator": "Stadt Paderborn"
+        "operator": "Stadt Paderborn",
+        "operator:type": "government",
+        "operator:wikidata": "Q2971"
       }
     },
     {
@@ -2153,10 +2151,12 @@
     {
       "displayName": "Stadt Rüsselsheim am Main",
       "id": "stadtrusselsheimammain-0ff93d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de-he.geojson"]},
       "tags": {
         "amenity": "kindergarten",
-        "operator": "Stadt Rüsselsheim am Main"
+        "operator": "Stadt Rüsselsheim am Main",
+        "operator:type": "government",
+        "operator:wikidata": "Q4031"
       }
     },
     {
@@ -2175,10 +2175,12 @@
     {
       "displayName": "Stadt Speyer",
       "id": "stadtspeyer-0ff93d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["de-rp.geojson"]},
       "tags": {
         "amenity": "kindergarten",
-        "operator": "Stadt Speyer"
+        "operator": "Stadt Speyer",
+        "operator:type": "government",
+        "operator:wikidata": "Q6829"
       }
     },
     {

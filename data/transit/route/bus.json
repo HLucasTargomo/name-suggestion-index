@@ -2353,12 +2353,12 @@
       }
     },
     {
-      "displayName": "BlaBlaBus",
+      "displayName": "BlaBlaCar Bus",
       "id": "blablabus-add5eb",
-      "locationSet": {"include": ["fx"]},
-      "matchNames": ["ouibus"],
+      "locationSet": {"include": ["fx", "es", "be", "it", "de", "nl", "gb", "at", "pt", "cz", "si", "sk", "hu", "hr", "lu", "ch"]},
+      "matchNames": ["iDBUS", "ouibus", "blablabus", "blablacar"],
       "tags": {
-        "network": "BlaBlaBus",
+        "network": "BlaBlaCar Bus",
         "network:wikidata": "Q1653380",
         "route": "bus"
       }
@@ -16049,6 +16049,19 @@
         "network": "RVTD",
         "network:wikidata": "Q7359553",
         "operator": "Rogue Valley Transportation District",
+        "route": "bus"
+      }
+    },
+    {
+      "displayName": "Ryde Racine",
+      "id": "",
+      "locationSet": {
+        "include": ["us-wi.geojson"]
+      },
+      "tags": {
+        "network": "Ryde Racine",
+        "network:wikidata": "Q4883698",
+        "operator": "City of Racine",
         "route": "bus"
       }
     },

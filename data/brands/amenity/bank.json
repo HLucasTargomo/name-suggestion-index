@@ -2792,6 +2792,43 @@
       }
     },
     {
+      "displayName": "Bank of Oklahoma",
+      "id": "bankofoklahoma-5d8353",
+      "locationSet": {
+        "include": ["us-ok.geojson"]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Bank of Oklahoma",
+        "brand:wikidata": "Q136328060",
+        "name": "Bank of Oklahoma"
+      }
+    },
+    {
+      "displayName": "Bank of Albuquerque",
+      "locationSet": {
+        "include": ["us-nm.geojson"]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Bank of Albuquerque",
+        "brand:wikidata": "Q136328072",
+        "name": "Bank of Albuquerque"
+      }
+    },
+    {
+      "displayName": "Bank of Texas",
+      "locationSet": {
+        "include": ["us-tx.geojson"]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "Bank of Texas",
+        "brand:wikidata": "Q136328074",
+        "name": "Bank of Texas"
+      }
+    },
+    {
       "displayName": "Bank of Scotland",
       "id": "bankofscotland-e1e9d0",
       "locationSet": {"include": ["gb"]},
@@ -4201,6 +4238,25 @@
         "brand:wikidata": "Q790068",
         "name": "BOC",
         "official_name": "Bank of China"
+      }
+    },
+    {
+      "displayName": "BOK Financial",
+      "id": "bokfinancial-29123a",
+      "locationSet": {
+        "include": [
+          "us-ar.geojson",
+          "us-az.geojson",
+          "us-co.geojson",
+          "us-ks.geojson",
+          "us-mo.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bank",
+        "brand": "BOK Financial",
+        "brand:wikidata": "Q136328066",
+        "name": "BOK Financial"
       }
     },
     {
@@ -7584,6 +7640,17 @@
         "brand:wikidata": "Q579747",
         "name": "GT Bank",
         "official_name": "Guaranty Trust Bank"
+      }
+    },
+    {
+      "displayName": "GTE Financial",
+      "id": "gtefinancial-ea2e2d",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "GTE Financial",
+        "brand:wikidata": "Q5514676",
+        "name": "GTE Financial"
       }
     },
     {
@@ -14914,21 +14981,6 @@
       }
     },
     {
-      "displayName": "Восточный",
-      "id": "vostochnybank-0eb427",
-      "locationSet": {"include": ["ru"]},
-      "tags": {
-        "amenity": "bank",
-        "brand": "Восточный",
-        "brand:en": "Vostochny Bank",
-        "brand:ru": "Восточный",
-        "brand:wikidata": "Q4126657",
-        "name": "Восточный",
-        "name:en": "Vostochny Bank",
-        "name:ru": "Восточный"
-      }
-    },
-    {
       "displayName": "ВТБ (Россия)",
       "id": "vtbbank-0eb427",
       "locationSet": {"include": ["ru"]},
@@ -15074,21 +15126,6 @@
         "name": "МетаБанк",
         "name:en": "MetaBank",
         "name:uk": "МетаБанк"
-      }
-    },
-    {
-      "displayName": "Московский индустриальный банк",
-      "id": "moscowindustrialbank-0eb427",
-      "locationSet": {"include": ["ru"]},
-      "tags": {
-        "amenity": "bank",
-        "brand": "Московский индустриальный банк",
-        "brand:en": "Moscow Industrial Bank",
-        "brand:ru": "Московский индустриальный банк",
-        "brand:wikidata": "Q4304145",
-        "name": "Московский индустриальный банк",
-        "name:en": "Moscow Industrial Bank",
-        "name:ru": "Московский индустриальный банк"
       }
     },
     {
@@ -15257,22 +15294,6 @@
         "name": "Общинска банка",
         "name:bg": "Общинска банка",
         "name:en": "Municipal Bank"
-      }
-    },
-    {
-      "displayName": "Открытие",
-      "id": "ce06bd-0eb427",
-      "locationSet": {"include": ["ru"]},
-      "matchNames": [
-        "b&n bank",
-        "банк открытие",
-        "бинбанк"
-      ],
-      "tags": {
-        "amenity": "bank",
-        "brand": "Открытие",
-        "brand:wikidata": "Q4327204",
-        "name": "Открытие"
       }
     },
     {
@@ -15529,25 +15550,6 @@
       }
     },
     {
-      "displayName": "РГС Банк",
-      "id": "rgsbank-0eb427",
-      "locationSet": {"include": ["ru"]},
-      "matchNames": [
-        "rosgosstrakh bank",
-        "росгосстрах банк"
-      ],
-      "tags": {
-        "amenity": "bank",
-        "brand": "РГС Банк",
-        "brand:en": "RGS Bank",
-        "brand:ru": "РГС Банк",
-        "brand:wikidata": "Q4397742",
-        "name": "РГС Банк",
-        "name:en": "RGS Bank",
-        "name:ru": "РГС Банк"
-      }
-    },
-    {
       "displayName": "Ренессанс Кредит",
       "id": "renaissancecredit-0eb427",
       "locationSet": {"include": ["ru"]},
@@ -15683,11 +15685,11 @@
       "tags": {
         "amenity": "bank",
         "brand": "Совкомбанк",
-        "brand:en": "Sovcom Bank",
+        "brand:en": "Sovcombank",
         "brand:ru": "Совкомбанк",
         "brand:wikidata": "Q4426566",
         "name": "Совкомбанк",
-        "name:en": "Sovcom Bank",
+        "name:en": "Sovcombank",
         "name:ru": "Совкомбанк"
       }
     },
@@ -15919,22 +15921,6 @@
         "name": "Halkbank",
         "name:en": "Halkbank",
         "name:mk": "Халк Банка"
-      }
-    },
-    {
-      "displayName": "Хоум Кредит",
-      "id": "homecreditandfinancebank-0eb427",
-      "locationSet": {"include": ["ru"]},
-      "matchNames": ["хоум"],
-      "tags": {
-        "amenity": "bank",
-        "brand": "Хоум Кредит",
-        "brand:en": "Home Credit & Finance Bank",
-        "brand:ru": "Хоум Кредит",
-        "brand:wikidata": "Q4500466",
-        "name": "Хоум Кредит",
-        "name:en": "Home Credit & Finance Bank",
-        "name:ru": "Хоум Кредит"
       }
     },
     {
