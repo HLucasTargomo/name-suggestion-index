@@ -4099,8 +4099,10 @@
     },
     {
       "displayName": "My Auchan",
-      "id": "myauchan-f3ab02",
-      "locationSet": {"include": ["fx", "pt", "ro"]},
+      "id": "myauchan-5dd5a6",
+      "locationSet": {
+        "include": ["fx", "pt", "ro"]
+      },
       "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "My Auchan",
@@ -5226,8 +5228,19 @@
     },
     {
       "displayName": "Shoprite Mini",
-      "id": "shopritemini-c7b713",
-      "locationSet": {"include": ["za", "zm", "ls", "sz", "ao", "bw", "mz", "na"]},
+      "id": "shopritemini-65248a",
+      "locationSet": {
+        "include": [
+          "ao",
+          "bw",
+          "ls",
+          "mz",
+          "na",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
       "tags": {
         "brand": "Shoprite Mini",
         "brand:wikidata": "Q1857639",
@@ -6932,22 +6945,23 @@
       }
     },
     {
-      "displayName": "КварталМаг",
-      "locationSet": {"include": ["bg"]},
-      "tags": {
-        "brand": "КварталМаг",
-        "brand:wikidata": "Q136378283",
-        "name": "КварталМаг",
-        "shop": "convenience"
-      }
-    },
-    {
       "displayName": "Квартал вкуса",
       "id": "32310f-e64bef",
       "locationSet": {"include": ["by"]},
       "tags": {
         "brand": "Квартал вкуса",
         "name": "Квартал вкуса",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "КварталМаг",
+      "id": "e93bd8-854be4",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "КварталМаг",
+        "brand:wikidata": "Q136378283",
+        "name": "КварталМаг",
         "shop": "convenience"
       }
     },

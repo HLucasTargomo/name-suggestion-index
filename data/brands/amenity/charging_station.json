@@ -179,8 +179,9 @@
     },
     {
       "displayName": "ChargeOne",
+      "id": "chargeone-190c99",
       "locationSet": {"include": ["de"]},
-      "matchNames": ["Heinemann"],
+      "matchNames": ["heinemann"],
       "tags": {
         "amenity": "charging_station",
         "brand": "ChargeOne",
@@ -296,7 +297,7 @@
     },
     {
       "displayName": "Eldrive",
-      "id": "eldrive-8c357e",
+      "id": "eldrive-ba9df9",
       "locationSet": {
         "include": ["bg", "lt", "ro"]
       },
@@ -321,18 +322,6 @@
       }
     },
     {
-      "displayName": "Electrify Canada",
-      "id": "electrifycanada-1f220b",
-      "locationSet": {"include": ["ca"]},
-      "tags": {
-        "amenity": "charging_station",
-        "brand": "Electrify Canada",
-        "brand:wikidata": "Q104844533",
-        "operator": "Electrify Canada",
-        "operator:wikidata": "Q104844533"
-      }
-    },
-    {
       "displayName": "Electrify America",
       "id": "electrifyamerica-5598dd",
       "locationSet": {"include": ["us"]},
@@ -345,6 +334,18 @@
       }
     },
     {
+      "displayName": "Electrify Canada",
+      "id": "electrifycanada-1f220b",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Electrify Canada",
+        "brand:wikidata": "Q104844533",
+        "operator": "Electrify Canada",
+        "operator:wikidata": "Q104844533"
+      }
+    },
+    {
       "displayName": "Electrocharge",
       "id": "electrocharge-59a92d",
       "locationSet": {"include": ["bg"]},
@@ -352,15 +353,6 @@
         "amenity": "charging_station",
         "brand": "Electrocharge",
         "brand:wikidata": "Q133307258"
-      }
-    },
-    {
-      "displayName": "ENGIE Vianeo",
-      "locationSet": {"include": ["150"]},
-      "tags": {
-        "amenity": "charging_station",
-        "brand": "ENGIE Vianeo",
-        "brand:wikidata": "Q136271934"
       }
     },
     {
@@ -393,6 +385,16 @@
         "name": "Enel X",
         "operator": "Enel X",
         "operator:wikidata": "Q5376815"
+      }
+    },
+    {
+      "displayName": "ENGIE Vianeo",
+      "id": "engievianeo-b625d6",
+      "locationSet": {"include": ["150"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ENGIE Vianeo",
+        "brand:wikidata": "Q136271934"
       }
     },
     {
@@ -500,7 +502,7 @@
     },
     {
       "displayName": "Fines Charging",
-      "id": "c9c8bd-befeeb",
+      "id": "finescharging-59a92d",
       "locationSet": {"include": ["bg"]},
       "matchNames": ["финес енерджи оод"],
       "tags": {
@@ -547,7 +549,7 @@
     },
     {
       "displayName": "GigaCharger",
-      "id": "gigacharger-befeeb",
+      "id": "gigacharger-59a92d",
       "locationSet": {"include": ["bg"]},
       "tags": {
         "amenity": "charging_station",
@@ -1047,9 +1049,9 @@
         "exclude": ["no"]
       },
       "matchNames": [
+        "newmotion",
         "shell recharge solutions",
-        "volta",
-        "newmotion"
+        "volta"
       ],
       "tags": {
         "amenity": "charging_station",
@@ -1238,7 +1240,7 @@
     },
     {
       "displayName": "Wink Charging",
-      "id": "wink-59a92d",
+      "id": "winkcharging-59a92d",
       "locationSet": {"include": ["bg"]},
       "tags": {
         "amenity": "charging_station",

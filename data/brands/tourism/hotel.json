@@ -990,7 +990,7 @@
     },
     {
       "displayName": "Days Inn",
-      "id": "daysinn-6df761",
+      "id": "daysinn-3e5d02",
       "locationSet": {
         "include": [
           "ar",
@@ -2850,6 +2850,17 @@
         "brand": "Occidental",
         "brand:wikidata": "Q15148996",
         "name": "Occidental",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "displayName": "Original by Sokos Hotels",
+      "id": "originalbysokoshotels-3d5a04",
+      "locationSet": {"include": ["ee", "fi"]},
+      "tags": {
+        "brand": "Original by Sokos Hotels",
+        "brand:wikidata": "Q136158784",
+        "name": "Original by Sokos Hotels",
         "tourism": "hotel"
       }
     },
@@ -4959,16 +4970,6 @@
         "operator:en": "Evergreen Group",
         "operator:wikidata": "Q711850",
         "operator:zh": "長榮集團",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "displayName": "Original by Sokos Hotels",
-      "locationSet": {"include": ["fi", "ee"]},
-      "tags": {
-        "brand": "Original by Sokos Hotels ",
-        "brand:wikidata": "Q136158784",
-        "name": " Original by Sokos Hotels ",
         "tourism": "hotel"
       }
     }

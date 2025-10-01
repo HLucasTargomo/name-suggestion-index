@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "6.0.20250908",
-    "generated": "2025-09-08T12:12:44.839Z",
+    "version": "6.0.20251001",
+    "generated": "2025-10-01T09:28:50.411Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/dissolved.json",
-    "hash": "51b7da7029c76437eb116a3f799f24e6"
+    "hash": "90d349606b17a03b7e2704a6a6570bcc"
   },
   "dissolved": {
     "100manvolt-f86f5e": [{"date": "2025-04-01T00:00:00.000Z"}],

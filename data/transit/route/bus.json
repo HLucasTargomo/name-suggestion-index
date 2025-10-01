@@ -2354,9 +2354,33 @@
     },
     {
       "displayName": "BlaBlaCar Bus",
-      "id": "blablabus-add5eb",
-      "locationSet": {"include": ["fx", "es", "be", "it", "de", "nl", "gb", "at", "pt", "cz", "si", "sk", "hu", "hr", "lu", "ch"]},
-      "matchNames": ["iDBUS", "ouibus", "blablabus", "blablacar"],
+      "id": "blablacarbus-6926f5",
+      "locationSet": {
+        "include": [
+          "at",
+          "be",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fx",
+          "gb",
+          "hr",
+          "hu",
+          "it",
+          "lu",
+          "nl",
+          "pt",
+          "si",
+          "sk"
+        ]
+      },
+      "matchNames": [
+        "blablabus",
+        "blablacar",
+        "idbus",
+        "ouibus"
+      ],
       "tags": {
         "network": "BlaBlaCar Bus",
         "network:wikidata": "Q1653380",
@@ -16054,7 +16078,7 @@
     },
     {
       "displayName": "Ryde Racine",
-      "id": "",
+      "id": "ryderacine-28c67e",
       "locationSet": {
         "include": ["us-wi.geojson"]
       },

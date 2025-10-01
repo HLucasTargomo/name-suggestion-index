@@ -42,23 +42,6 @@
   },
   "items": [
     {
-      "displayName": "7 Brew",
-      "locationSet": {"include": ["us"]},
-      "matchNames": [
-        "7Brew",
-        "7 Brew Coffee",
-        "Seven Brew Coffee"
-      ],
-      "tags": {
-        "amenity": "cafe",
-        "brand": "7 Brew",
-        "brand:wikidata": "Q131838275",
-        "drive_through": "only",
-        "drink:coffee": "yes",
-        "cuisine": "coffee_shop"
-      }
-    },
-    {
       "displayName": "% Arabica",
       "id": "arabica-e1ef51",
       "locationSet": {"include": ["001"]},
@@ -147,6 +130,24 @@
         "name": "50嵐",
         "name:en": "50 Lan",
         "name:zh": "50嵐",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "7 Brew",
+      "id": "7brew-243cad",
+      "locationSet": {"include": ["us"]},
+      "matchNames": [
+        "7 brew coffee",
+        "seven brew coffee"
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "brand": "7 Brew",
+        "brand:wikidata": "Q131838275",
+        "cuisine": "coffee_shop",
+        "drink:coffee": "yes",
+        "drive_through": "only",
         "takeaway": "yes"
       }
     },

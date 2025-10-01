@@ -276,6 +276,7 @@
     },
     {
       "displayName": "All'Antico Vinaio",
+      "id": "allanticovinaio-6b6fb0",
       "locationSet": {
         "include": ["ae", "gb-eng", "it", "us"]
       },
@@ -12065,13 +12066,15 @@
     },
     {
       "displayName": "Софийска баница",
+      "id": "ed9067-1fab0a",
       "locationSet": {"include": ["bg"]},
       "tags": {
         "amenity": "fast_food",
         "brand": "Софийска баница",
         "brand:wikidata": "Q136404664",
         "cuisine": "banitsa",
-        "name": "Софийска баница"
+        "name": "Софийска баница",
+        "takeaway": "yes"
       }
     },
     {
